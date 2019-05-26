@@ -1,5 +1,5 @@
 package hanar.naver_test;
-
+// 추가 요함
 //20182645 이태경 git:hanarotg
 abstract class Shape {
 	private Shape next;
